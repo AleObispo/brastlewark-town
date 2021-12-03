@@ -28,9 +28,9 @@ LinkedIn: https://www.linkedin.com/in/alejandro-obispo-a222931b7/
 [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
 
 ## Codefactor
-
+[![CodeFactor](https://www.codefactor.io/repository/github/aleobispo/brastlewark-town/badge)](https://www.codefactor.io/repository/github/aleobispo/brastlewark-town)
 ## Link a Netlify
-
+https://brastlewark-town-react-test.netlify.app
 
 
 
